@@ -1,4 +1,9 @@
 *.py[cod]
 .DS_Store
-venv
+venv/
 /.idea/
+build/
+*.swp
+*.egg
+dist/
+conversions.egg-info/
